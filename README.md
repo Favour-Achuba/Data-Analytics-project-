@@ -45,9 +45,12 @@ Income composition of resources: Human Development Index in terms of income comp
 Schooling: Number of years of Schooling(years)
 
 
+
 Method:
 
 Excel,SQL AND Power BI was used to analyse the dataset
+
+
 
 Key Discoveries:
 
