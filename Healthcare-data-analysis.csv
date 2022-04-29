@@ -1,0 +1,62 @@
+﻿life_expectancy,,,adult_mortality,,,infant_deaths,,,alcohol,,,percentage_expenditure,,,hepatitis_B,,,measles,,,BMI,,,under_five_deaths,,,polio,,total_expenditure,,,,diphtheria,,,HIV_AIDS,,,GDP,,,population,,,thinness_1_to_19_years,,,thinness_5_to_9_years,,,income_composition_of_resources,,,schooling,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mean,69.22493169,,Mean,164.7964481,,Mean,30.30394826,,Mean,4.602860787,,Mean,738.2512955,,Mean,80.94046122,,Mean,2419.59224,,Mean,38.32124656,,Mean,42.0357386,,Mean,82.55018842,,Mean,5.938189528,,Mean,82.32408359,,Mean,1.742103472,,Mean,7483.158469,,Mean,12753375.12,,Mean,4.839703857,,Mean,4.870316804,,Mean,0.627551065,,Mean,11.99279279
+Standard Error,0.176006136,,Standard Error,2.296983715,,Standard Error,2.175632402,,Standard Error,0.077360917,,Standard Error,36.67514875,,Standard Error,0.513346272,,Standard Error,211.5603305,,Standard Error,0.371951928,,Standard Error,2.960068602,,Standard Error,0.4336297,,Standard Error,0.047973694,,Standard Error,0.438976323,,Standard Error,0.093680321,,Standard Error,285.9759118,,Standard Error,1276079.805,,Standard Error,0.08202441,,Standard Error,0.083670155,,Standard Error,0.004006505,,Standard Error,0.06376291
+Median,72.1,,Median,144,,Median,3,,Median,3.755,,Median,64.91290605,,Median,92,,Median,17,,Median,43.5,,Median,4,,Median,93,,Median,5.755,,Median,93,,Median,0.1,,Median,1766.947595,,Median,1386542,,Median,3.3,,Median,3.3,,Median,0.677,,Median,12.3
+Mode,73,,Mode,12,,Mode,0,,Mode,0.01,,Mode,0,,Mode,99,,Mode,0,,Mode,58.5,,Mode,0,,Mode,99,,Mode,4.6,,Mode,99,,Mode,0.1,,Mode,#N/A,,Mode,444,,Mode,1,,Mode,0.9,,Mode,0,,Mode,12.9
+Standard Deviation,9.523867488,,Standard Deviation,124.292079,,Standard Deviation,117.9265013,,Standard Deviation,4.052412659,,Standard Deviation,1987.914858,,Standard Deviation,25.07001559,,Standard Deviation,11467.27249,,Standard Deviation,20.0440335,,Standard Deviation,160.4455484,,Standard Deviation,23.42804595,,Standard Deviation,2.498319672,,Standard Deviation,23.71691207,,Standard Deviation,5.077784531,,Standard Deviation,14270.16934,,Standard Deviation,61012096.51,,Standard Deviation,4.420194947,,Standard Deviation,4.508882087,,Standard Deviation,0.210903555,,Standard Deviation,3.358919721
+Sample Variance,90.70405193,,Sample Variance,15448.5209,,Sample Variance,13906.65971,,Sample Variance,16.42204836,,Sample Variance,3951805.483,,Sample Variance,628.5056818,,Sample Variance,131498338.3,,Sample Variance,401.7632791,,Sample Variance,25742.774,,Sample Variance,548.873337,,Sample Variance,6.241601184,,Sample Variance,562.4919181,,Sample Variance,25.78389574,,Sample Variance,203637733,,Sample Variance,3.72248E+15,,Sample Variance,19.53812337,,Sample Variance,20.33001767,,Sample Variance,0.04448031,,Sample Variance,11.28234169
+Kurtosis,-0.234477394,,Kurtosis,1.748860208,,Kurtosis,116.0427561,,Kurtosis,-0.802909224,,Kurtosis,26.57338739,,Kurtosis,2.770259399,,Kurtosis,114.8599032,,Kurtosis,-1.291095468,,Kurtosis,109.7527951,,Kurtosis,3.776509819,,Kurtosis,1.156270469,,Kurtosis,3.558143,,Kurtosis,34.89200787,,Kurtosis,12.33307364,,Kurtosis,298.0102666,,Kurtosis,3.97043867,,Kurtosis,4.358730342,,Kurtosis,1.392814239,,Kurtosis,0.886151269
+Skewness,-0.638604736,,Skewness,1.174369488,,Skewness,9.78696295,,Skewness,0.589562528,,Skewness,4.652051348,,Skewness,-1.930845104,,Skewness,9.441331947,,Skewness,-0.219311603,,Skewness,9.495064657,,Skewness,-2.098053249,,Skewness,0.618685552,,Skewness,-2.072752929,,Skewness,5.396112042,,Skewness,3.20665487,,Skewness,15.9162356,,Skewness,1.711471088,,Skewness,1.777423977,,Skewness,-1.14376272,,Skewness,-0.602436542
+Range,52.7,,Range,722,,Range,1800,,Range,17.86,,Range,19479.91161,,Range,98,,Range,212183,,Range,86.3,,Range,2500,,Range,96,,Range,17.23,,Range,97,,Range,50.5,,Range,119171.0605,,Range,1293859260,,Range,27.6,,Range,28.5,,Range,0.948,,Range,20.7
+Minimum,36.3,,Minimum,1,,Minimum,0,,Minimum,0.01,,Minimum,0,,Minimum,1,,Minimum,0,,Minimum,1,,Minimum,0,,Minimum,3,,Minimum,0.37,,Minimum,2,,Minimum,0.1,,Minimum,1.68135,,Minimum,34,,Minimum,0.1,,Minimum,0.1,,Minimum,0,,Minimum,0
+Maximum,89,,Maximum,723,,Maximum,1800,,Maximum,17.87,,Maximum,19479.91161,,Maximum,99,,Maximum,212183,,Maximum,87.3,,Maximum,2500,,Maximum,99,,Maximum,17.6,,Maximum,99,,Maximum,50.6,,Maximum,119172.7418,,Maximum,1293859294,,Maximum,27.7,,Maximum,28.6,,Maximum,0.948,,Maximum,20.7
+Sum,202690.6,,Sum,482524,,Sum,89033,,Sum,12630.25,,Sum,2168982.306,,Sum,193043,,Sum,7108762,,Sum,111284.9,,Sum,123501,,Sum,240964,,Sum,16104.37,,Sum,240304,,Sum,5118.3,,Sum,18633064.59,,Sum,29154215524,,Sum,14054.5,,Sum,14143.4,,Sum,1738.944,,Sum,33280
+Count,2928,,Count,2928,,Count,2938,,Count,2744,,Count,2938,,Count,2385,,Count,2938,,Count,2904,,Count,2938,,Count,2919,,Count,2712,,Count,2919,,Count,2938,,Count,2490,,Count,2286,,Count,2904,,Count,2904,,Count,2771,,Count,2775
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"The  table above shows. An overview of the data for each variable in the dataset, this helps get a feel of the data by showing the average value within each variable, the highest occuring number, the deviation from the sample mean , smallest and largest values and well as the ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+number of observations within each variable.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Development status,Average of life_expectancy,Max. of adult_mortality,Min. of total_expenditure,Sum of under_five_deaths,Count of measles,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Developed,79.19785156,229,1.1,927,512,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Developing,67.11146523,723,0.37,122574,2426,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Grand Total,69.22493169,723,0.37,123501,2938,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+The table of descriptive statistics contains a lot of details and is generated for each variable which may be cumbersome and tiring to read. A pivot table helps compress that information and draw patterns which we wolud like to see in our data.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"For example, the above table shows avg life expectacy, count of measles etc beased on the status of each country. So we have an idea of what each variable is like in each country. ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Here we can immediately see that developed countries have a higher average life expectancy, lower adult and child mortality rates and tend to spend  a higher percentage of their GDP on health.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"We can also use formulars to produce descriptive statistics (min,max, count etc.) and draw existing patterns in our data as demostrated in the table below ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Max Life expectancy amongst developing countries (Max function),Contries below the devloping contries LE Avg (Countifs),Vlookup for adult_mortality in Nigeria,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+89,66.8,344,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,<67,Nigeria,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Column one: shows the maximum life expectancy value amongst all developing countries in the sample using the maxif funtion. According to the data, a person from a developing country is expected to live till 89 at most.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Column two: containsthe number of countries that have a life expectency lower than the sample average for developing countries, table 2 vshows this to be 67.1 years of age.",,,,,,,,,countif function is utilised to yield the result.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Column three: here we were interested in seeing what the adult mortality rate is for nigerians without having to scroll through this large data set. The vlookup function  is adept at fetching this information. ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"As seen in the data-set, there are 15 entries for adult mortality in nigeria representing each year from 2000-2015, the vlookup funtion automatically picks the first one.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+We have now had an overview of the data and spotted sone interesting patterns in the data but we do not  have a firm understanding of how variables in this dataset affect each other or more importantly how they impact life expectancy .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Because we are focused on how the other variables correlate with lifee expectancy, we will focus on the first column only.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,life_expectancy,adult_mortality,infant_deaths,alcohol,percentage_expenditure,hepatitis_B,measles,BMI,under_five_deaths,polio,total_expenditure,diphtheria,HIV_AIDS,GDP,population,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+life_expectancy,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+adult_mortality,-0.696359314,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+infant_deaths,-0.196557177,0.078756012,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+alcohol,0.404876761,-0.195848196,-0.115637677,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+percentage_expenditure,0.381863503,-0.242859528,-0.085612222,0.341285313,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+hepatitis_B,0.256761948,-0.162476325,-0.223566281,0.087548711,0.016273693,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+measles,-0.157585804,0.031176412,0.501128342,-0.051826674,-0.056595677,-0.120529372,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BMI,0.567693548,-0.387016784,-0.227278888,0.33040846,0.228699753,0.150379532,-0.175977063,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+under_five_deaths,-0.222529116,0.094146127,0.996628882,-0.112370397,-0.087852306,-0.233126251,0.507808707,-0.237668522,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+polio,0.465555806,-0.274822815,-0.170688559,0.221733797,0.147259463,0.486170773,-0.136166014,0.284568764,-0.188720213,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+total_expenditure,0.218086374,-0.115280689,-0.128616342,0.29694156,0.174419689,0.058280304,-0.106240588,0.242502604,-0.130148312,0.137330249,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+diphtheria,0.479494864,-0.275131358,-0.175171496,0.222020171,0.143624426,0.611494949,-0.141881938,0.283147336,-0.195668288,0.673553321,0.152753524,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HIV_AIDS,-0.556556253,0.523820508,0.025231318,-0.048844563,-0.097856819,-0.112675448,0.030898718,-0.243716531,0.038061512,-0.159559542,-0.001388836,-0.164860095,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GDP,0.461455193,-0.296049318,-0.108427363,0.354712086,0.899372641,0.083903212,-0.076466053,0.301557394,-0.112081253,0.211975566,0.138364222,0.200665557,-0.136490819,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+population,-0.021538108,-0.013646972,0.556801332,-0.035252342,-0.025661888,-0.123320952,0.265966087,-0.072301023,0.544422649,-0.038540248,-0.079661838,-0.028443781,-0.02785429,-0.028269671,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+The results indicate the following:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"adult_mortality mortality has a strong negative correlation with life expectancy. This means if adult mortality increases, life expectancy is expected to fall.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Infant mortality,measles, Aids and population also have a negative correlation with life expectancy. A rise in any of the afore mentioned is expected to affect life expectancy negatively.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"percentage_expenditure on health, polio immunization, diphtheria immunization coverage and gdp per capita all have a psitive correlation with life expectancy indicating that as these variables increase, life expectancy should increase as well.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
