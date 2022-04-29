@@ -2,7 +2,7 @@
 
 This Project aims to study factors that impact life expectancy in developing and developed countries. The project aims to discover if each variable impacts developing and developed countires differently for example, does an increase in population impact life expectancy differently in developed countries that it would in a developing country?
 
-For this study, the following variable were used in the dataset:
+For this study, the following variableS were used in the dataset:
 
 Status: Developing or developed country
 Life Expectancy: life expectancy in age
@@ -28,7 +28,7 @@ Schooling: Number of years of Schooling(years)
 
 Method:
 
-Excel,SQL AND Power BI was used to analyse the dataset
+Excel,SQL AND Power BI was used to analyse the dataset.
 
 
 Key Discoveries:
