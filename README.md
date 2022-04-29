@@ -46,9 +46,11 @@ Schooling: Number of years of Schooling(years)
 
 
 
+
 Method:
 
 Excel,SQL AND Power BI was used to analyse the dataset
+
 
 
 
